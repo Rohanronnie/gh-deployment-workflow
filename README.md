@@ -8,4 +8,4 @@ using GitHub Actions.
 - The workflow deploys the site to GitHub Pages automatically
 
 ## Live Site
-https://<username>.github.io/gh-deployment-workflow/
+https://rohanronnie.github.io/gh-deployment-workflow/
